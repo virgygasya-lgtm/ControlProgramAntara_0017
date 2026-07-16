@@ -23,3 +23,5 @@ int main(){
     cout << "Masukkan nilai Matematika = ";
     cin >> nilMT;
 
+        rerata = Rata_rata(nilBI, nilMT);
+
